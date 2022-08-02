@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: 9011e8559224a39488ec0ca9ab6febc6
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Mtl
+    second: {fileID: 2100000, guid: 907afa39b3f9cca4b938ee5a5914069e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_Mtl
+    second: {fileID: 2100000, guid: a7ba6c5d02289e348abd84ef0d1c061c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: booklack_Mtl
+    second: {fileID: 2100000, guid: 5e5de2337c4be214a90bdb7c5ddd4521, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: box_Mtl
+    second: {fileID: 2100000, guid: f66e8d13ca173ca4a839c4af517acb79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cat_tower_B_Mtl
+    second: {fileID: 2100000, guid: 21c57e20cb0bcbd4dae88a82acbc74b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cat_tower_Mtl
+    second: {fileID: 2100000, guid: 35d9159ff8fee66438fbe26fba24d5f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: catwalk_Mtl
+    second: {fileID: 2100000, guid: 2f69594fff57ca448a6ab84a16957c17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: center_Mtl
+    second: {fileID: 2100000, guid: b85019557edab93459b1164568fcc899, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: center_cycle_Mtl
+    second: {fileID: 2100000, guid: 8bb56f4b852aca7449722783727a8277, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair_A_Mtl
+    second: {fileID: 2100000, guid: 9116fce7070944a49a88a1a0ed53ad6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair_B_Mtl
+    second: {fileID: 2100000, guid: 4167e38aec33deb4d9e642d4c2e1d36a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair_C_Mtl
+    second: {fileID: 2100000, guid: 3ac90414cdcc572468e1bd061e3b6f2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair_D_Mtl
+    second: {fileID: 2100000, guid: d816de325665fb541a50c5b3a2f495e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clock_Mtl
+    second: {fileID: 2100000, guid: 97fbd6f0ebb739c4084528f4770952a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cushion_A_Mtl
+    second: {fileID: 2100000, guid: 770158f6c11f78b45b8573a362136e0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_Mtl
+    second: {fileID: 2100000, guid: e46f27b70bbbd65458bc88ac471d8593, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: esaBox_Mtl
+    second: {fileID: 2100000, guid: f359a996406113046b004f34b79fd7f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor_tile_Mtl
+    second: {fileID: 2100000, guid: ab745195e285caf4d9abd41702c9e8b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: garigari_Mtl
+    second: {fileID: 2100000, guid: 63a9194e8adf758499c0ed35197d344f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_Mtl
+    second: {fileID: 2100000, guid: 0bbadad975f31c54a9de3b0ae46ef285, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: d65640f87f96c9a4bb14f0ca28346ed7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madowaku_Mtl
+    second: {fileID: 2100000, guid: a796a7a9aeb59a647979b2974cd6ec76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nekokusa_Mtl
+    second: {fileID: 2100000, guid: 58d66137186f80c47a89cc8f9b00ca4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nekosuna_Mtl
+    second: {fileID: 2100000, guid: df5389486c941d84dbe02f8b38184bad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ori_Mtl
+    second: {fileID: 2100000, guid: 6a7a2576144045c4bb2512f0f8bb3835, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piller_Mtl
+    second: {fileID: 2100000, guid: a7d6414cf0f9e72498f7e6fef34574ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: poster_A_Mtl
+    second: {fileID: 2100000, guid: a57e391e8ea1c3d4cb08e7613b89ddb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: poster_B_Mtl
+    second: {fileID: 2100000, guid: 693158538dfd41548ab08454485ebf24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: support_Mtl
+    second: {fileID: 2100000, guid: 234de017a4412cf40a5269f5db2bbd4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_A_Mtl
+    second: {fileID: 2100000, guid: 673747a954da51444ad75d4bb9194f79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_B_Mtl
+    second: {fileID: 2100000, guid: 0056f1eadc8f2384c8499540b27e7715, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tana_Mtl
+    second: {fileID: 2100000, guid: c1c9bad4bd4d3f440b47c1b25707722b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: viw_Mtl
+    second: {fileID: 2100000, guid: e69de59144f56a34e910ba9cf0c51e35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_Mtl
+    second: {fileID: 2100000, guid: fc8f0369038675a4389a6bec0aa5cfdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_Mtl
+    second: {fileID: 2100000, guid: 32ddb8f30fab44a44a53716c38a4e7e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_Mtl
+    second: {fileID: 2100000, guid: 4a9dbbddbd10db84e86e0d3015c427ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yane_Mtl
+    second: {fileID: 2100000, guid: 3bfecd53bc8c87a42b14057e6efc43c7, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TV_col
+    second: {fileID: 2800000, guid: ca5af583b76a30546b225bf9f0bd2919, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: booklack_col
+    second: {fileID: 2800000, guid: 0f95c59f758822346a2032c69f7d50d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: box_col
+    second: {fileID: 2800000, guid: 877ea72c39339934d909c230cefb7011, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cat_tower_A_col
+    second: {fileID: 2800000, guid: 930a41af145e01c44989ea63bcf457a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cat_walk_col
+    second: {fileID: 2800000, guid: 1518ffcc04598064992bac369d247ac5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: center_col
+    second: {fileID: 2800000, guid: 334730d62ba42d142a0a7840a2124e54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: center_cycle_col
+    second: {fileID: 2800000, guid: b67a7b1c988ba4341a349ea6b1922b96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: center_nml
+    second: {fileID: 2800000, guid: 3443177d4e030a44a87e42f4235ee8b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chair_A_col
+    second: {fileID: 2800000, guid: 3138e48206f04d0468ae769cb15cb5cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chair_B_col
+    second: {fileID: 2800000, guid: 1d21c788858d3c2489888a314cf4c209, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chair_C_col
+    second: {fileID: 2800000, guid: 3b06ca9e43066cb4e92a3eeebebaa020, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chair_D_col
+    second: {fileID: 2800000, guid: d0a7d3dc1af47c841b3f637b4056b0a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chair_D_nml
+    second: {fileID: 2800000, guid: 1083dfc630f3efd41b37eb9a4ad719d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: clock_col
+    second: {fileID: 2800000, guid: 3198ef75168bbe74fb13688b0ae21b5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cushion_A_col
+    second: {fileID: 2800000, guid: 335d7dacce25c414194e191196d07db1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: door_col
+    second: {fileID: 2800000, guid: 8af9ebea09a26444aa4ccc90c5fa3fed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: esa_col
+    second: {fileID: 2800000, guid: 4a38e464dc7a35248989f481c0f3e4d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: floor_tile_col
+    second: {fileID: 2800000, guid: 13a9806b95d38d94d9fe7afca9be040f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: floor_tile_nml
+    second: {fileID: 2800000, guid: c9fb003d5a37a8f48b9ed6c5803990e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: garigari_col
+    second: {fileID: 2800000, guid: 76810d0ac82a98242882cce88cf70157, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: garigari_nml
+    second: {fileID: 2800000, guid: 8083600909d80a046b878d5e351c59ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nekokusa_col
+    second: {fileID: 2800000, guid: b97f13119606f004ba0d6360586e9c86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nekosuna_col
+    second: {fileID: 2800000, guid: c7b1eeb68285344479bbf0e7940b4fd1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: nekosuna_nml
+    second: {fileID: 2800000, guid: 653f3f62fb8658f4cbeb7761e9687dbc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ori_col
+    second: {fileID: 2800000, guid: a9991d0abe7a67c4aad41bd9cba463a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pillur_col
+    second: {fileID: 2800000, guid: c34b0c80d8e1b1e44b0558b688112273, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: poster_A_col
+    second: {fileID: 2800000, guid: 02eea27cec2cbba438ac168cc921cd38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: poster_B_col
+    second: {fileID: 2800000, guid: 079dda6e78193da4b901288521418906, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: support_col
+    second: {fileID: 2800000, guid: b7a1c0635899c5141b8a1ccbc7a26162, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: table_A_col
+    second: {fileID: 2800000, guid: 3d7fc5367f842e740be0b68f1de47857, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: table_B_col
+    second: {fileID: 2800000, guid: 4fbf4309e6be484479acb23c34d0a460, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tana
+    second: {fileID: 2800000, guid: 9a1e0e8e5238f55498a53607484095f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall_col
+    second: {fileID: 2800000, guid: 3869ffb452bd7f44cac197b181321381, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: window_col
+    second: {fileID: 2800000, guid: cf25238ccc30d4847976a0757f722579, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yane_col
+    second: {fileID: 2800000, guid: 6fa11572c55c8a94eb6364e85d15a8da, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
